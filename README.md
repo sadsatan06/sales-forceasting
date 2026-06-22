@@ -108,3 +108,4 @@ All 12 charts are saved to `outputs/` automatically when you run the project.
 - **matplotlib / seaborn** — visualizations
 - **scikit-learn** — ML models (LinearRegression, RandomForest, GradientBoosting)
 # sales-forceasting
+# sales-forceasting
