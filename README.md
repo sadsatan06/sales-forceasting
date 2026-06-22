@@ -4,11 +4,11 @@
 
 | Field | Details |
 |---|---|
-| **Intern ID** | *(your intern ID)* |
-| **Full Name** | *(your name)* |
-| **No. of Weeks** | *(duration)* |
+| **Intern ID** | CITS5203 |
+| **Full Name** | Anagh Pandey |
+| **No. of Weeks** | 4 |
 | **Project Name** | Sales Forecasting |
-| **Project Scope** | Time-series sales analysis + ML-based revenue forecasting |
+| **Project Scope** | Machine Learning |
 
 ---
 
